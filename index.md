@@ -1,11 +1,3 @@
-```
-{
-	"title": "Big Taipei Migration"
-	"firstName": "Zoe",
-	"lastName": "Wang"
-}
-
-```
 
 > This is the page to present the interactive diagrams, maps, tables etc in my Econ master thesis.
 
