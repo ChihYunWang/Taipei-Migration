@@ -1,5 +1,5 @@
 
-> This is the page to present the interactive diagrams, maps, tables etc in my Econ master thesis.
+> This page presents the interactive diagrams, maps, tables, etc in my Econ master thesis.
 
 # List of interactive files:
 
