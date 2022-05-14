@@ -1,5 +1,5 @@
 
-> This page presents the interactive diagrams, maps, tables, etc in Chih-Yun Wang's Econ master thesis.
+This page presents the interactive maps, diagrams, tables, etc.
 
 # List of interactive outputs:
 
