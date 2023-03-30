@@ -2,7 +2,11 @@
 This page presents the interactive maps, diagrams, tables, etc.
 
 # List of interactive outputs:
+1. [Map of the proportion of resitents at the top decile income group](https://chihyunwang.github.io/Taipei-Migration/interactive/map_10.html)
+2. [Correlation between the housing price change and in-migrants income distribution change](https://chihyunwang.github.io/Taipei-Migration/interactive/TM10_price_in.html) 
 
+
+# [Archive] Taipei metro
 1. [Map of Taipei Metro system](https://chihyunwang.github.io/Taipei-Migration/interactive/mrt_map.html) (Update: 2022/04/28)
 2. [Migration trend of each district](https://chihyunwang.github.io/Taipei-Migration/interactive/town_migration.html) (Update: 2022/05/09)
 3. [Migration trend and the number of MRT stations](https://chihyunwang.github.io/Taipei-Migration/interactive/town_migration_MRT_relation.html) (Update: 2022/05/09)
